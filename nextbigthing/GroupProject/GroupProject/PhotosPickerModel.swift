@@ -2,7 +2,7 @@
 //  PhotosPickerModel.swift
 //  GroupProject
 //
-//  Created by Annemarie Peek on 5/7/23.
+//  Created by Grant Hergenroeder, Olivia Reese, and Annemarie Peek on 5/7/23.
 //
 
 import Foundation
