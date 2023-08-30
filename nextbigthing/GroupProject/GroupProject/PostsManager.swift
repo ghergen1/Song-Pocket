@@ -2,7 +2,7 @@
 //  PostsManager.swift
 //  GroupProject
 //
-//  Created by Olivia Reese on 4/8/23.
+//  Created by Grant Hergenroeder, Olivia Reese, and Annemarie Peek on 4/8/23.
 //
 
 import Foundation
