@@ -2,7 +2,7 @@
 //  UserManager.swift
 //  GroupProject
 //
-//  Created by Olivia Reese on 4/9/23.
+//  Created by Grant Hergenroeder, Olivia Reese, and Annemarie Peek on 4/9/23.
 //
 
 import Foundation
