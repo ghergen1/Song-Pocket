@@ -2,7 +2,7 @@
 //  GroupProjectUITests.swift
 //  GroupProjectUITests
 //
-//  Created by Olivia Reese on 3/12/23.
+//  Created by Grant Hergenroeder, Olivia Reese, and Annemarie Peek on 3/12/23.
 //
 
 import XCTest
